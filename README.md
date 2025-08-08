@@ -16,11 +16,6 @@ Our **C# Windows Forms** application was designed to help college students **fin
 
 Since this was a **hackathon prototype**, many features were mockups and did not perform full backend functions, but they effectively showcased the **concept and UI** of the app.  
 
-## 📸 Preview
-
-![Bursary-App-preview](https://github.com/user-attachments/assets/f483c416-330c-488a-bed7-4cf72fc33869)
-
-
 ## 🛠️ Built With  
 
 - **C# Windows Forms** 🖥️  
